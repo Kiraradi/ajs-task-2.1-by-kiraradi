@@ -1,1 +1,9 @@
-# ajs-task-2.1-by-kiraradi
+# Домашнее задание к лекции «Модули» - Webpack
+
+
+[Мое портфолио](https://kiraradi.github.io/Portfolio/)
+
+## Мои социальные сети:
+-[VK](https://vk.com/thedomino2)
+
+-[Telegram](https://t.me/Kiraradi)
